@@ -1,1 +1,1 @@
-The Odin recipes project is to creat a particular recipe of your choice using the HTML code for it.
+The Odin Recipes project is to creat a particular recipe of your choice using the HTML code for it.
